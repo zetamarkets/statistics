@@ -1,1 +1,16 @@
-{"usd-coin":2694106.2,"lido-staked-sol":510.34845914699997,"serum":10873.99905,"solana":145932.68257631414,"stepn":10866.4354,"msol":15689.1466,"injective-protocol":161231.927,"synthetify-token":9.321958,"raydium":882.5,"ethereum":340,"ftx-token":5856.3,"bitcoin":88.6,"socean-staked-sol":1.0168,"mango-markets":516737.1}
+{
+  "usd-coin": 2694106.2,
+  "lido-staked-sol": 510.34845914699997,
+  "serum": 10873.99905,
+  "stepn": 10866.4354,
+  "solana": 145932.68258158027,
+  "msol": 15689.1466,
+  "injective-protocol": 161231.927,
+  "synthetify-token": 9.321958,
+  "raydium": 882.5,
+  "ethereum": 340,
+  "ftx-token": 5856.3,
+  "bitcoin": 88.6,
+  "socean-staked-sol": 1.0168,
+  "mango-markets": 516737.1
+}
